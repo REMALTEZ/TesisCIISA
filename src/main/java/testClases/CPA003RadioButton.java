@@ -19,8 +19,6 @@ public class CPA003RadioButton extends BaseWeb {
         radioButtonTollsQA radio = new radioButtonTollsQA();
         radio.radioButton();
         radio.formularioRadioButton();
-
-
     }
 
 
